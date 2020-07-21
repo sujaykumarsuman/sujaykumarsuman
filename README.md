@@ -1,4 +1,4 @@
-![GitHub Banner](github_banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/sujaykumarsuman/sujaykumarsuman/master/github_banner.png)
 
 - 🔭 I’m currently working on C++, Data Structure and Algorithms
 - 🌱 I’m currently learning Flutter & Node.js
