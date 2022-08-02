@@ -1,4 +1,4 @@
-![GitHub Banner](github_banner.png)
+<!-- ![GitHub Banner](github_banner.png) -->
 <p align="center">
     <a href = "https://github.com/skriptvalley"><img alt="Github" src="https://img.shields.io/badge/the%20skript%20valley-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
